@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @defikintaro
 - 👀 I’m interested in dapps, fintech, backend
 - 🌱 I’m currently learning bitcoin, ethereum, avalanche, graph, icp networks
-- Contact over: [stackexchange]() [twitter handle](https://twitter.com/defikintaro)
+- Contact over: [stackexchange](https://ethereum.stackexchange.com/users/73314/defikintaro) [twitter handle](https://twitter.com/defikintaro)
 
 <!---
 defikintaro/defikintaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
